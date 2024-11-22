@@ -1,5 +1,5 @@
 # infosecextra.github.io
-blog home page
+Blog Home Page
 
 
 Legal Disclaimer:
